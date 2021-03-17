@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Inspirational Dashboard",
+    "description": "Be inspired and organized!",
+    "version": "1.0.0",
+
+    "chrome_url_overrides" : {
+        "newtab": "index.html"
+    },
+
+    "permissions":[
+        "tabs"
+    ]
+}
